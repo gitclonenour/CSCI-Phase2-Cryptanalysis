@@ -1,0 +1,5 @@
+SCOWL (Spell Checker Oriented Word Lists):
+http://prdownloads.sourceforge.net/wordlist/scowl-5.tar.gz
+
+English letter frequencies:
+https://cs.wellesley.edu/~fturbak/codman/letterfreq.html
